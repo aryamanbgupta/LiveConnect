@@ -1,4 +1,8 @@
 # LiveConnect
+Video conferencing using peerJS and socket.io
+Connects 2 people and adds additional user into a queue
+
+
 Run these commands on terminal:
 
 npm init -y
